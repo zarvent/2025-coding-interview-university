@@ -4,10 +4,10 @@
 
 > Originalmente creé esto como una lista corta de temas a estudiar para volverme un Ingeniero de Software, pero creció hasta ser la gran lista que puede apreciar actualmente. Después de pasar por este plan de estudios, ¡[fui contratado como Ingeniero de Desarrollo de Software en Amazon! (Art. en Inglés)](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu) Posiblemente no tengas que estudiar tanto como yo. De todos modos, todo lo que necesitas, esta aquí.
 >
-> Durante muchos meses he estudiado diariamente de 8 a 12 horas. Esta es mi historia: [Por qué estudié a tiempo completo durante 8 meses para una entrevista con Google.  (Art. Inglés)](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13) 
+> Durante muchos meses he estudiado diariamente de 8 a 12 horas. Esta es mi historia: [Por qué estudié a tiempo completo durante 8 meses para una entrevista con Google.  (Art. Inglés)](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
 > Nota: No necesitarás estudiar tanto como yo. He perdido mucho tiempo en aspectos que yo no necesitaba saber. Más información abajo. Te ayudaré a alcanzar tu meta sin que pierda su preciado tiempo.
-> 
+>
 > Los elementos listados aquí le prepararan bien para una entrevista en cualquier compañía de software, incluyendo a los gigantes: Amazon, Facebook, Google o Microsoft.
 >
 > *¡Mucha suerte!*
@@ -242,7 +242,7 @@ Algunos videos solo están disponibles inscribiéndose a una clase de Coursera o
 Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuitas como videos de Youtube para acompañar a los videos del curso en línea.
 
 ## Prepárese para la entrevista
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
