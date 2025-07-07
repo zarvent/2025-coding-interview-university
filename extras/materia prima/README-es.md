@@ -23,7 +23,7 @@
 - [Português Brasileiro](translations/README-ptbr.md)
 - [Russian](translations/README-ru.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Urdu - اردو](tanslations/README-ur.md)
+- [Urdu - اردو](translations/README-ur.md)
 - [Uzbek](translations/README-uz.md)
 - [বাংলা - Bangla](translations/README-bn.md)
 - [ខ្មែរ - Khmer](translations/README-kh.md)
@@ -55,49 +55,87 @@
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
-Este es mi plan de estudios de varios meses para pasar de ser un Desarrollador Web (Autodidacta, sin título) a un Ingeniero de Software para una gran compañía.
+Este es mi plan de estudios de varios meses para convertirme en ingeniero de software para una gran empresa.
 
-**Requisitos:**
-- Mínima experiencia relacionada a la programación (variables, métodos/funciones, bucles...)
-- Paciencia
-- TIempo
+**Requerido:**
+* Un poco de experiencia con programación (variables, bucles, métodos/funciones, etc)
+* Paciencia
+* Tiempo
 
-Esto es para los **nuevos Ingenieros de Software** o aquellos que quieren cambiar del Desarrollo de Software/Web a Ingeniero de Software (Dónde el conocimiento de las Ciencias de Computación es requerido) Si tiene varios años de experiencia, y clama tenerlos como Ingeniero de Software, espere una entrevista más ardua.
+Nota: este es un plan de estudios para **ingeniería de software**, no para ingeniería frontend o desarrollo full-stack. Realmente hay excelentes roadmaps y cursos para esas trayectorias profesionales en otros lugares (ve https://roadmap.sh/ para más información).
 
-Si tiene varios años de experiencia en el desarrollo de software/web, note que las grandes compañías (como Google, Amazon, Facebook y Microsoft) ven la Ingeniería de Software diferente al Desarrollo de Software/Web, requiriendo del conocimiento de las Ciencias de Computación.
-
-Si desea ser un Ingeniero de Escalabilidad/Seguridad o un Ingeniero de Sistemas, estudie más de la lista opcional (Redes, Seguridad)
+Hay mucho que aprender en un programa universitario de Ciencias de la Computación, pero conocer alrededor del 75% es suficiente para una entrevista, así que eso es lo que cubro aquí.
+Para un programa completo de CS autodidacta, los recursos de mi plan de estudios han sido incluidos en el Computer Science Roadmap de Kamran Ahmed: https://roadmap.sh/computer-science
 
 
 ---
 
 ## Tabla de contenido
 
+### El Plan de Estudios
+
 - [¿Qué es esto?](#qué-es-esto)
 - [¿Por qué usarlo?](#por-qué-usarlo)
-- [¿Cómo usarlo?](#como-usarlo)
-- [No sienta que no es lo suficientemente listo](#no-sienta--que-no-es-lo-suficientemente-listo)
-- [Acerca de los recursos de vídeo](#acerca-de-los-recursos-de-vídeo)
-- [Prepárese para la entrevista](#prepárese-para-la-entrevista)
-- [Escoja un lenguaje para la entrevista](#escoja-un-lenguaje-para-la-entrevista)
-- [Lista de libros](#lista-de-libros)
-- [Antes de iniciar](#antes-de-iniciar)
-- [Lo que no verá cubierto](#lo-que-no-verá-cubierto)
-- [El plan diario](#el-plan-diario)
-- [Conocimientos Previos](#conocimientos-previos)
+- [Cómo usarlo](#cómo-usarlo)
+- [No sientas que no eres lo suficientemente inteligente](#no-sientas-que-no-eres-lo-suficientemente-inteligente)
+- [Una Nota Sobre los Recursos de Video](#una-nota-sobre-los-recursos-de-video)
+- [Elige un Lenguaje de Programación](#elige-un-lenguaje-de-programación)
+- [Libros para Estructuras de Datos y Algoritmos](#libros-para-estructuras-de-datos-y-algoritmos)
+- [Libros de Preparación para Entrevistas](#libros-de-preparación-para-entrevistas)
+- [No Cometas Mis Errores](#no-cometas-mis-errores)
+- [Lo que No Verás Cubierto](#lo-que-no-verás-cubierto)
+- [El Plan Diario](#el-plan-diario)
+- [Práctica de Preguntas de Codificación](#práctica-de-preguntas-de-codificación)
+- [Problemas de Codificación](#problemas-de-codificación)
+
+### Temas de Estudio
+
 - [Complejidad algorítmica / Big-O / Análisis asintótico](#complejidad-algorítmica--big-o--análisis-asintótico)
 - [Estructuras de datos](#estructuras-de-datos)
     - [Arreglos](#arreglos)
     - [Listas Enlazadas](#listas-enlazadas)
     - [Pila](#pila)
-    - [Cola o fila](#cola-o-fila)
-    - [Matriz asociativa](#matriz-asociativa)
-- [Información adicional](#información-adicional)
+    - [Cola](#cola)
+    - [Tabla Hash](#tabla-hash)
+- [Más Conocimientos](#más-conocimientos)
     - [Búsqueda binaria](#búsqueda-binaria)
-    - [Operaciones bit a bit](#operaciones-bit-bit)
+    - [Operaciones bit a bit](#operaciones-bit-a-bit)
 - [Árboles](#árboles)
-    - [Árboles - Notas & Antecedentes](#árboles---notas--antecedentes)
-    - [Árboles de búsqueda binaria: BSTs](#árboles-de-búsqueda-binaria-bsts)
+    - [Árboles - Introducción](#árboles---introducción)
+    - recorridos: preorden, en orden, post orden, BFS, DFS
+- [Ordenamiento](#ordenamiento)
+    - selección
+    - mergesort
+- [Grafos](#grafos)
+    - dirigidos
+    - recorridos: BFS, DFS
+- [Aún Más Conocimientos](#aún-más-conocimientos)
+    - [Recursión](#recursión)
+    - [Redes](#redes)
+- [Revisión Final](#revisión-final)
+
+### Conseguir el Trabajo
+
+- [Actualiza tu Currículum](#actualiza-tu-currículum)
+- [Encuentra un Trabajo](#encuentra-un-trabajo)
+- [Proceso de Entrevista y Preparación General para Entrevistas](#proceso-de-entrevista-y-preparación-general-para-entrevistas)
+- [Piensa en esto cuando llegue la entrevista](#piensa-en-esto-cuando-llegue-la-entrevista)
+- [Ten preguntas para el entrevistador](#ten-preguntas-para-el-entrevistador)
+- [Una vez que hayas conseguido el trabajo](#una-vez-que-hayas-conseguido-el-trabajo)
+
+**---------------- Todo debajo de este punto es opcional ----------------**
+
+### Temas y Recursos Opcionales Adicionales
+
+- [Libros adicionales](#libros-adicionales)
+- [Diseño del Sistema, Escalabilidad, Manejo de Datos](#diseño-del-sistema-escalabilidad-manejo-de-datos) (si tienes 4+ años de experiencia)
+- [Aprendizaje adicional](#aprendizaje-adicional)
+    - [Compiladores](#compiladores)
+    - [Matemáticas discretas](#matemáticas-discretas)
+- [Detalles adicionales sobre algunos temas](#detalles-adicionales-sobre-algunos-temas)
+- [Series de videos](#series-de-videos)
+- [Cursos de Ciencias de la Computación](#cursos-de-ciencias-de-la-computación)
+- [Artículos](#artículos)
     - [Montículo / Colas de Prioridad / Montículo binario](#montículo--colas-de-prioridad--montículo-binario)
     - Árboles de búsqueda balanceables (Concepto General, sin detallar)
     - Recorridos: preorder, inorder, postorder, BFS, DFS
@@ -199,7 +237,7 @@ Cuando comencé este proyecto, no sabía la diferencia entre un stack y un heap,
 
 Es un plan largo, puede que tome unos meses; pero si le resulta familiar mucho de esto, le tomara mucho menos tiempo.
 
-## Como usarlo
+## Cómo usarlo
 
 Todo lo que aparece abajo es un plan, y debería abordar los elementos en orden de arriba a abajo.
 
@@ -231,15 +269,22 @@ git push --force
 ```
 [Más acerca de características de Github para markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## No sienta que no es lo suficientemente listo
-- Los ingenieros de software exitosos son inteligentes, pero muchos tienen la inseguridad de no ser lo suficientemente listos.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+## No sientas que no eres lo suficientemente inteligente
+- Los ingenieros de software exitosos son inteligentes, pero muchos tienen la inseguridad de no ser lo suficientemente inteligentes.
+- [El mito del Programador Genio](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [Es Peligroso Ir Solo: Luchando contra los Monstruos Invisibles en Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## Acerca de los recursos de vídeo
-Algunos videos solo están disponibles inscribiéndose a una clase de Coursera o EdX. Estos son llamados MOOCs. En ocasiones las clases no están en sesión, por lo que tendrá que esperar un par de meses, así que no tiene acceso.
+**[⬆ volver arriba](#tabla-de-contenido)**
 
-Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuitas como videos de Youtube para acompañar a los videos del curso en línea.
+## Una Nota Sobre los Recursos de Video
+Algunos videos solo están disponibles inscribiéndose en una clase de Coursera o EdX. Estos se llaman MOOCs.
+A veces las clases no están en sesión, así que tienes que esperar un par de meses, por lo que no tienes acceso.
+
+Sería genial reemplazar los recursos de cursos en línea con fuentes públicas gratuitas y siempre disponibles,
+como videos de YouTube (preferiblemente conferencias universitarias), para que las personas puedan estudiar estos en cualquier momento,
+no solo cuando un curso en línea específico esté en sesión.
+
+**[⬆ volver arriba](#tabla-de-contenido)**
 
 ## Prepárese para la entrevista
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
@@ -257,46 +302,127 @@ Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuita
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - Un curso enfocado a una entrevista centrada en Python; que cubre estructuras de datos, algoritmos, plantillas de entrevistas y mucho más.
 
-## Escoja un lenguaje para la entrevista
+## Elige un Lenguaje de Programación
 
-Puede usar un lenguaje con el que este cómodo para hacer la parte de código para la entrevista, pero para las grandes compañías, estas son buenas elecciones:
+Necesitarás elegir un lenguaje de programación para las entrevistas de codificación que hagas,
+pero también necesitarás encontrar un lenguaje que puedas usar para estudiar conceptos de ciencias de la computación.
+
+Preferiblemente el lenguaje sería el mismo, para que solo necesites ser competente en uno.
+
+### Para este Plan de Estudios
+
+Cuando hice el plan de estudios, usé 2 lenguajes para la mayor parte: C y Python
+
+* C: Muy bajo nivel. Te permite lidiar con punteros y asignación/desasignación de memoria, para que sientas las estructuras de datos
+    y algoritmos en tus huesos. En lenguajes de alto nivel como Python o Java, esto está oculto de ti. En el trabajo diario, eso es excelente,
+    pero cuando estás aprendiendo cómo se construyen estas estructuras de datos de bajo nivel, es genial sentirse cerca del metal.
+    - C está en todas partes. Verás ejemplos en libros, conferencias, videos, *en todas partes* mientras estudias.
+    - [The C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+        - Este es un libro corto, pero te dará un gran manejo del lenguaje C y si lo practicas un poco
+            rápidamente te volverás competente. Entender C te ayuda a entender cómo funcionan los programas y la memoria.
+        - No necesitas profundizar mucho en el libro (o incluso terminarlo). Solo llega a donde te sientas cómodo leyendo y escribiendo en C.
+* Python: Moderno y muy expresivo, lo aprendí porque es súper útil y también me permite escribir menos código en una entrevista.
+
+Esta es mi preferencia. Haz lo que te guste, por supuesto.
+
+Puede que no lo necesites, pero aquí hay algunos sitios para aprender un nuevo lenguaje:
+- [Exercism](https://exercism.org/tracks)
+- [Codewars](http://www.codewars.com)
+- [HackerEarth](https://www.hackerearth.com/for-developers/)
+- [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
+- [Programiz PRO Community Challenges)](https://programiz.pro/)
+
+### Para tu Entrevista de Codificación
+
+Puedes usar un lenguaje en el que te sientas cómodo para hacer la parte de codificación de la entrevista, pero para grandes empresas, estas son opciones sólidas:
 
 - C++
 - Java
 - Python
 
-También podría usar estos, pero primero deberá informarse. Puede haber advertencias:
+También podrías usar estos, pero lee un poco primero. Puede que haya advertencias:
 
 - JavaScript
 - Ruby
 
-Debes sentirte muy cómodo con el lenguaje y ser experto.
+Aquí hay un artículo que escribí sobre elegir un lenguaje para la entrevista:
+[Elige Un Lenguaje para la Entrevista de Codificación](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
+Este es el artículo original en el que se basó mi publicación: [Eligiendo un Lenguaje de Programación para Entrevistas](https://web.archive.org/web/20210516054124/http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
-Lee más acerca de opciones:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+Necesitas sentirte muy cómodo con el lenguaje y ser conocedor.
 
-[Vea recursos de programas aquí](programming-language-resources.md)
+Lee más sobre opciones:
+- [Elige el Lenguaje Correcto para tu Entrevista de Codificación](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
 
-Verá algunos materiales de aprendizaje de C, C++ y Python abajo, porque estoy aprendiendo. Hay algunos libros involucrados, ve al final.
+[Ve recursos específicos del lenguaje aquí](programming-language-resources.md)
 
-## Lista de libros
+**[⬆ volver arriba](#tabla-de-contenido)**
 
-Esta es una lista más corta que la que yo usé. Está abreviada para ahorrarle tiempo.
+## Libros para Estructuras de Datos y Algoritmos
 
-### Preparación para la entrevista
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+Este libro formará tu base para ciencias de la computación.
+
+Solo elige uno, en un lenguaje con el que te sientas cómodo. Harás mucha lectura y codificación.
+
+### Python
+
+- [Coding Interview Patterns: Nail Your Next Coding Interview](https://geni.us/q7svoz) (**Recomendación Principal**)
+    - La perspectiva de un insider sobre lo que los entrevistadores realmente buscan y por qué.
+    - 101 problemas reales de entrevistas de codificación con soluciones detalladas.
+    - Explicaciones intuitivas que te guían a través de cada problema como si lo estuvieras resolviendo en una entrevista en vivo.
+    - 1000+ diagramas para ilustrar conceptos y patrones clave.
+
+### C
+
+- [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
+    - Fundamentos, Estructuras de Datos, Ordenamiento, Búsqueda, y Algoritmos de Grafos
+
+### Java
+
+Tu elección:
+
+- Goodrich, Tamassia, Goldwasser
+    - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+- Sedgewick and Wayne:
+    - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+    - Curso gratuito de Coursera que cubre el libro (¡impartido por los autores!):
+        - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
+        - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+
+### C++
+
+Tu elección:
+
+- Goodrich, Tamassia, and Mount
+    - [Data Structures and Algorithms in C++, 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275)
+- Sedgewick and Wayne
+    - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
+    - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+
+**[⬆ volver arriba](#tabla-de-contenido)**
+
+## Libros de Preparación para Entrevistas
+
+Aquí hay algunos libros recomendados para complementar tu aprendizaje.
+
+- [Coding Interview Patterns: Nail Your Next Coding Interview](https://geni.us/q7svoz)
+
+- [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - Respuestas en C++ y Java
     - Este es un buen calentamiento para Cracking the Coding Interview
-    - No muy difícil. Muchos problemas pueden ser más sencillos de los que verá en la entrevista (Por lo que he leído)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - Respuestas en Java
+    - No demasiado difícil. La mayoría de los problemas pueden ser más fáciles de lo que verás en una entrevista (por lo que he leído)
 
-Si dispone de mucho tiempo adicional:
+- [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+    - respuestas en Java
 
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] Elements of Programming Interviews (Java version)
-    - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
+### Si tienes mucho tiempo extra:
+
+Elige uno:
+
+- [Elements of Programming Interviews (versión C++)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
+- [Elements of Programming Interviews (versión Java)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
+        - [Proyecto Acompañante - Method Stub y Test Cases para Cada Problema en el Libro](https://github.com/gardncl/elements-of-programming-interviews)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
 ### Arquitectura de Computadores
@@ -520,7 +646,7 @@ Escriba código en un pizarrón o en papel, pero no en la computadora. Pruebe co
 - [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 
-    Si algunas de las lecturas son muy matemáticas, puede saltar a la parte inferior y ver las matemáticas discretas para tener el conocimiento base.
+    Si algunas de las lecturas son muy matemáticas, puede saltar a la parte inferior y ver las matematicas discretas para tener el conocimiento base.
 
 ## Estructuras de datos
 
@@ -1323,7 +1449,7 @@ Hay una gran introducción para la solución de problemas metódicos y comunicat
 
 ¿No tiene pizarrón en casa? Tiene sentido. Soy un bicho raro y tengo una pizarra grande. En vez de una pizarra blanca, recoja un gran cuadernillo de dibujo de una tienda de arte. Puede sentarse en el sofá y practicar. Esta es mi "pizarra de sofá". He añadido la pluma en la foto para la escala. Si usa un bolígrafo, deseará poder borrarlo. Se ensucia rápido.
 
-![my sofa whiteboard](https://camo.githubusercontent.com/4b2dfa34fd739404edcc014f89b5432ab1ec9cfebecce1d59b9f7986826d03cf/68747470733a2f2f64336a32706b6d6a74696e366f752e636c6f756466726f6e742e6e65742f6172745f626f6172645f736d5f322e6a7067)
+![my sofa whiteboard](https://camo.githubusercontent.com/4b2dfa34fd739404edcc014f89b5432ab1eccfebecce1d59b9f7986826d03cf/68747470733a2f2f64336a32706b6d6a74696e366f752e636c6f756466726f6e742e6e65742f6172745f626f6172645f736d5f322e6a7067)
 
 Complementos:
 - [Mathematics for Topcoders](https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/)
@@ -1335,7 +1461,7 @@ Complementos:
 - [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html):
     - Respuestas en C, C++ y Java
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/):
-    - Respuestas en Java
+    - respuestas en Java
 
 Vea [Lista de libros](#lista-de-libros)
 
@@ -1355,7 +1481,7 @@ Sitios de desafíos:
 - [TopCoder](https://www.topcoder.com/)
 - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
 - [Codewars](http://www.codewars.com)
-- [HackerEarth](https://www.hackerearth.com/)
+- [HackerEarth](https://www.hackerearth.com/for-developers/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Codility](https://codility.com/programmers/)
 - [InterviewCake](https://www.interviewcake.com/)
@@ -1443,7 +1569,7 @@ Nunca está de verdad realizado.
 
 ## Aprendizaje adicional
 
-Es probable que estos temas no aparezcan en una entrevista, pero los añadí para ayudarle a convertirse en un Ingeniero de Software más completo, y ser consciente en ciertas tecnologías y algoritmos, para que tenga una caja de herramientas más grande.
+Es probable que estos temas no aparezcan en una entrevista, pero los añadí para ayudarle a convertirse en un Ingeniero de Software más completo, y ser consciente en ciertas tecnologías y
 
 - ### Compiladores
     - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
