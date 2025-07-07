@@ -1585,7 +1585,6 @@ tecnologías y algoritmos, para que tengas una caja de herramientas más grande.
   - [Divide & Conquer: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
 - ### Matemáticas discretas
-
   - [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
   - [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
   - [Discrete Mathematics By IIT Ropar NPTEL](https://nptel.ac.in/courses/106/106/106106183/)
@@ -1596,9 +1595,11 @@ tecnologías y algoritmos, para que tengas una caja de herramientas más grande.
 
 ## Detalles adicionales de ciertos temas
 
-    Agregué estos para reforzar algunas ideas ya presentadas arriba, pero no quería incluirlos
-    arriba porque es demasiado. Es fácil excederse en un tema.
-    Quieres conseguir trabajo en este siglo, ¿verdad?
+```
+Agregué estos para reforzar algunas ideas ya presentadas arriba, pero no quería incluirlos
+arriba porque es demasiado. Es fácil excederse en un tema.
+Quieres conseguir trabajo en este siglo, ¿verdad?
+```
 
 - **SOLID**
   - [ ] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://www.youtube.com/watch?v=TMuno5RZNeE)
@@ -1766,12 +1767,11 @@ Siéntate y disfruta.
   - El paper de Dynamo impulsó la revolución NoSQL
 - [2007: What Every Programmer Should Know About Memory (very long, and the author encourages skipping of some sections)](https://www.akkadia.org/drepper/cpumemory.pdf)
 - 2012: AddressSanitizer: A Fast Address Sanity Checker:
-
-    - [paper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37752.pdf)
-    - [video](https://www.usenix.org/conference/atc12/technical-sessions/presentation/serebryany)
+  - [paper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37752.pdf)
+  - [video](https://www.usenix.org/conference/atc12/technical-sessions/presentation/serebryany)
 - 2013: Spanner: Google's Globally-Distributed Database:
-    - [paper](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
-    - [video](https://www.usenix.org/node/170855)
+  - [paper](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+  - [video](https://www.usenix.org/node/170855)
 - [2015: Continuous Pipelines at Google](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43790.pdf)
 - [2015: High-Availability at Massive Scale: Building Google's Data Infrastructure for Ads](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44686.pdf)
 - [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
