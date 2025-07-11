@@ -1,34 +1,41 @@
-﻿# Coding Interview University
+﻿# Universidad de Entrevistas de Programación
 
 - Versión original: [Inglés](../README.md)
 
-> Originalmente creé esto como una lista corta de temas a estudiar para volverme un Ingeniero de Software, pero creció hasta ser la gran lista que puede apreciar actualmente. Después de pasar por este plan de estudios, ¡[fui contratado como Ingeniero de Desarrollo de Software en Amazon! (Art. en Inglés)](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu) Posiblemente no tengas que estudiar tanto como yo. De todos modos, todo lo que necesitas, esta aquí.
+> Originalmente creé esto como una lista corta de temas de estudio para convertirme en un ingeniero de software,
+> pero creció hasta la gran lista que ves hoy. Después de seguir este plan de estudio, [fui contratado
+> como Ingeniero de Desarrollo de Software en Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+> Probablemente no tendrás que estudiar tanto como yo. De todos modos, todo lo que necesitas está aquí.
 >
-> Durante muchos meses he estudiado diariamente de 8 a 12 horas. Esta es mi historia: [Por qué estudié a tiempo completo durante 8 meses para una entrevista con Google.  (Art. Inglés)](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+> Estudié unas 8-12 horas al día, durante varios meses. Esta es mi historia: [Por qué estudié a tiempo completo durante 8 meses para una entrevista en Google](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
-> Nota: No necesitarás estudiar tanto como yo. He perdido mucho tiempo en aspectos que yo no necesitaba saber. Más información abajo. Te ayudaré a alcanzar tu meta sin que pierda su preciado tiempo.
+> **Nota:** No necesitarás estudiar tanto como yo. Desperdicié mucho tiempo en cosas que no necesitaba saber. Más información sobre eso está abajo. Te ayudaré a llegar ahí sin desperdiciar tu tiempo valioso.
 >
-> Los elementos listados aquí le prepararan bien para una entrevista en cualquier compañía de software, incluyendo a los gigantes: Amazon, Facebook, Google o Microsoft.
+> Los elementos listados aquí te prepararán bien para una entrevista técnica en casi cualquier empresa de software,
+> incluidos los gigantes: Amazon, Facebook, Google y Microsoft.
 >
-> *¡Mucha suerte!*
+> *¡La mejor de las suertes para ti!*
 
 <details>
 <summary>Traducciones:</summary>
-- [Bahasa Indonesia](translations/README-id.md)
-- [Bulgarian](translations/README-bg.md)
-- [Español](translations/README-es.md)
-- [German](translations/README-de.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Polish](translations/README-pl.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Russian](translations/README-ru.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Urdu - اردو](translations/README-ur.md)
-- [Uzbek](translations/README-uz.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [简体中文](translations/README-cn.md)
-- [繁體中文](translations/README-tw.md)
+
+- [Bahasa Indonesia](README-id.md)
+- [Bulgarian](README-bg.md)
+- [Español](README-es.md)
+- [German](README-de.md)
+- [Japanese (日本語)](README-ja.md)
+- [Marathi](README-mr.md)
+- [Polish](README-pl.md)
+- [Português Brasileiro](README-ptbr.md)
+- [Russian](README-ru.md)
+- [Tiếng Việt - Vietnamese](README-vi.md)
+- [Urdu - اردو](README-ur.md)
+- [Uzbek](README-uz.md)
+- [বাংলা - Bangla](README-bn.md)
+- [ខ្មែរ - Khmer](README-kh.md)
+- [简体中文](README-cn.md)
+- [繁體中文](README-tw.md)
+
 </details>
 
 <details>
@@ -55,23 +62,25 @@
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
-Este es mi plan de estudios de varios meses para convertirme en ingeniero de software para una gran empresa.
+Este es mi plan de estudio de varios meses para convertirme en ingeniero de software para una gran empresa.
 
 **Requerido:**
+
 - Un poco de experiencia con programación (variables, bucles, métodos/funciones, etc)
 - Paciencia
 - Tiempo
 
-Nota: este es un plan de estudios para **ingeniería de software**, no para ingeniería frontend o desarrollo full-stack. Realmente hay excelentes roadmaps y cursos para esas trayectorias profesionales en otros lugares (ve <https://roadmap.sh/> para más información).
+Nota: este es un plan de estudio para **ingeniería de software**, no para ingeniería frontend o desarrollo full-stack. Realmente hay
+super roadmaps y cursos para esas trayectorias profesionales en otros lugares (ve <https://roadmap.sh/> para más información).
 
-Hay mucho que aprender en un programa universitario de Ciencias de la Computación, pero conocer alrededor del 75% es suficiente para una entrevista, así que eso es lo que cubro aquí.
-Para un programa completo de CS autodidacta, los recursos de mi plan de estudios han sido incluidos en el Computer Science Roadmap de Kamran Ahmed: <https://roadmap.sh/computer-science>
+Hay mucho que aprender en un programa universitario de Ciencias de la Computación, pero conocer solo alrededor del 75% es suficiente para una entrevista, así que eso es lo que cubro aquí.
+Para un programa completo de CS autodidacta, los recursos de mi plan de estudio han sido incluidos en el Computer Science Roadmap de Kamran Ahmed: <https://roadmap.sh/computer-science>
 
 ---
 
-## Tabla de contenido
+## Tabla de Contenidos
 
-### El Plan de Estudios
+### El Plan de Estudio
 
 - [¿Qué es esto?](#qué-es-esto)
 - [¿Por qué usarlo?](#por-qué-usarlo)
@@ -84,55 +93,143 @@ Para un programa completo de CS autodidacta, los recursos de mi plan de estudios
 - [No Cometas Mis Errores](#no-cometas-mis-errores)
 - [Lo que No Verás Cubierto](#lo-que-no-verás-cubierto)
 - [El Plan Diario](#el-plan-diario)
-- [Práctica de Preguntas de Codificación](#práctica-de-preguntas-de-codificación)
-- [Problemas de Codificación](#problemas-de-codificación)
+- [Práctica de Preguntas de Programación](#práctica-de-preguntas-de-programación)
+- [Problemas de Programación](#problemas-de-programación)
 
 ### Temas de Estudio
 
-- [Complejidad algorítmica / Big-O / Análisis asintótico](#complejidad-algorítmica--big-o--análisis-asintótico)
-- [Estructuras de datos](#estructuras-de-datos)
-  - [Arreglos](#arreglos)
-  - [Listas Enlazadas](#listas-enlazadas)
-  - [Pila](#pila)
-  - [Cola](#cola)
-  - [Tabla Hash](#tabla-hash)
-- [Más Conocimientos](#más-conocimientos)
-  - [Búsqueda binaria](#búsqueda-binaria)
-  - [Operaciones bit a bit](#operaciones-bit-a-bit)
-- [Árboles](#árboles)
-  - [Árboles - Introducción](#árboles---introducción)
-  - recorridos: preorden, en orden, post orden, BFS, DFS
-- [Ordenamiento](#ordenamiento)
-  - selección
-  - mergesort
-- [Grafos](#grafos)
-  - dirigidos
-  - recorridos: BFS, DFS
-- [Aún Más Conocimientos](#aún-más-conocimientos)
-  - [Recursión](#recursión)
-  - [Redes](#redes)
-- [Revisión Final](#revisión-final)
+- [Universidad de Entrevistas de Programación](#universidad-de-entrevistas-de-programación)
+  - [¿Qué es esto?](#qué-es-esto)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [El Plan de Estudio](#el-plan-de-estudio)
+    - [Temas de Estudio](#temas-de-estudio)
+    - [Conseguir el Trabajo](#conseguir-el-trabajo)
+    - [Temas y Recursos Adicionales Opcionales](#temas-y-recursos-adicionales-opcionales)
+  - [¿Por qué usarlo?](#por-qué-usarlo)
+  - [Cómo usarlo](#cómo-usarlo)
+  - [No sientas que no eres lo suficientemente inteligente](#no-sientas-que-no-eres-lo-suficientemente-inteligente)
+  - [Una Nota Sobre los Recursos de Video](#una-nota-sobre-los-recursos-de-video)
+  - [Prepárese para la entrevista](#prepárese-para-la-entrevista)
+  - [Elige un Lenguaje de Programación](#elige-un-lenguaje-de-programación)
+    - [Para este Plan de Estudios](#para-este-plan-de-estudios)
+    - [Para tu Entrevista de Codificación](#para-tu-entrevista-de-codificación)
+  - [Libros para Estructuras de Datos y Algoritmos](#libros-para-estructuras-de-datos-y-algoritmos)
+    - [Python](#python)
+    - [C](#c)
+    - [Java](#java)
+    - [C++](#c-1)
+  - [Libros de Preparación para Entrevistas](#libros-de-preparación-para-entrevistas)
+    - [Si tienes mucho tiempo extra](#si-tienes-mucho-tiempo-extra)
+  - [No Cometas Mis Errores](#no-cometas-mis-errores)
+    - [1. No Recordarás Todo](#1-no-recordarás-todo)
+    - [2. Usa Tarjetas de Memoria](#2-usa-tarjetas-de-memoria)
+    - [3. Haz Preguntas de Codificación Mientras Aprendes](#3-haz-preguntas-de-codificación-mientras-aprendes)
+    - [4. Enfócate](#4-enfócate)
+  - [Lo que No Verás Cubierto](#lo-que-no-verás-cubierto)
+  - [El Plan Diario](#el-plan-diario)
+  - [Complejidad algorítmica / Big-O / Análisis asintótico](#complejidad-algorítmica--big-o--análisis-asintótico)
+  - [Estructuras de datos](#estructuras-de-datos)
+  - [Más Conocimientos](#más-conocimientos)
+  - [Árboles](#árboles)
+  - [Ordenamiento](#ordenamiento)
+  - [Grafos](#grafos)
+  - [Aún Más Conocimientos](#aún-más-conocimientos)
+  - [Revisión Final](#revisión-final)
+  - [Actualiza tu Currículum](#actualiza-tu-currículum)
+  - [Encuentra un Trabajo](#encuentra-un-trabajo)
+  - [Proceso de Entrevista y Preparación General para Entrevistas](#proceso-de-entrevista-y-preparación-general-para-entrevistas)
+  - [Piensa en esto cuando llegue la entrevista](#piensa-en-esto-cuando-llegue-la-entrevista)
+  - [Ten preguntas para el entrevistador](#ten-preguntas-para-el-entrevistador)
+  - [Una vez que hayas conseguido el trabajo](#una-vez-que-hayas-conseguido-el-trabajo)
+  - [Libros adicionales](#libros-adicionales)
+  - [Diseño del Sistema, Escalabilidad, Manejo de Datos](#diseño-del-sistema-escalabilidad-manejo-de-datos)
+  - [Aprendizaje adicional](#aprendizaje-adicional)
+  - [Detalles adicionales de ciertos temas](#detalles-adicionales-de-ciertos-temas)
+  - [Series de videos](#series-de-videos)
+  - [Cursos de Informática](#cursos-de-informática)
+  - [Implementación de algoritmos](#implementación-de-algoritmos)
+  - [Papers](#papers)
+  - [LICENCIA](#licencia)
 
 ### Conseguir el Trabajo
 
 - [Actualiza tu Currículum](#actualiza-tu-currículum)
 - [Encuentra un Trabajo](#encuentra-un-trabajo)
-- [Proceso de Entrevista y Preparación General para Entrevistas](#proceso-de-entrevista-y-preparación-general-para-entrevistas)
-- [Piensa en esto cuando llegue la entrevista](#piensa-en-esto-cuando-llegue-la-entrevista)
+- [Proceso de Entrevista y Preparación General](#proceso-de-entrevista-y-preparación-general)
+- [Qué pensar cuando llegue la entrevista](#qué-pensar-cuando-llegue-la-entrevista)
 - [Ten preguntas para el entrevistador](#ten-preguntas-para-el-entrevistador)
-- [Una vez que hayas conseguido el trabajo](#una-vez-que-hayas-conseguido-el-trabajo)
+- [Una Vez que Consigas el Trabajo](#una-vez-que-consigas-el-trabajo)
 
-**---------------- Todo debajo de este punto es opcional ----------------**
+**---------------- Todo lo que está debajo de este punto es opcional ----------------**
 
-### Temas y Recursos Opcionales Adicionales
+### Temas y Recursos Adicionales Opcionales
 
-- [Coding Interview University](#coding-interview-university)
+- [Universidad de Entrevistas de Programación](#universidad-de-entrevistas-de-programación)
   - [¿Qué es esto?](#qué-es-esto)
-  - [Tabla de contenido](#tabla-de-contenido)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [El Plan de Estudio](#el-plan-de-estudio)
+    - [Temas de Estudio](#temas-de-estudio)
+    - [Conseguir el Trabajo](#conseguir-el-trabajo)
+    - [Temas y Recursos Adicionales Opcionales](#temas-y-recursos-adicionales-opcionales)
+  - [¿Por qué usarlo?](#por-qué-usarlo)
+  - [Cómo usarlo](#cómo-usarlo)
+  - [No sientas que no eres lo suficientemente inteligente](#no-sientas-que-no-eres-lo-suficientemente-inteligente)
+  - [Una Nota Sobre los Recursos de Video](#una-nota-sobre-los-recursos-de-video)
+  - [Prepárese para la entrevista](#prepárese-para-la-entrevista)
+  - [Elige un Lenguaje de Programación](#elige-un-lenguaje-de-programación)
+    - [Para este Plan de Estudios](#para-este-plan-de-estudios)
+    - [Para tu Entrevista de Codificación](#para-tu-entrevista-de-codificación)
+  - [Libros para Estructuras de Datos y Algoritmos](#libros-para-estructuras-de-datos-y-algoritmos)
+    - [Python](#python)
+    - [C](#c)
+    - [Java](#java)
+    - [C++](#c-1)
+  - [Libros de Preparación para Entrevistas](#libros-de-preparación-para-entrevistas)
+    - [Si tienes mucho tiempo extra](#si-tienes-mucho-tiempo-extra)
+  - [No Cometas Mis Errores](#no-cometas-mis-errores)
+    - [1. No Recordarás Todo](#1-no-recordarás-todo)
+    - [2. Usa Tarjetas de Memoria](#2-usa-tarjetas-de-memoria)
+    - [3. Haz Preguntas de Codificación Mientras Aprendes](#3-haz-preguntas-de-codificación-mientras-aprendes)
+    - [4. Enfócate](#4-enfócate)
+  - [Lo que No Verás Cubierto](#lo-que-no-verás-cubierto)
+  - [El Plan Diario](#el-plan-diario)
+  - [Complejidad algorítmica / Big-O / Análisis asintótico](#complejidad-algorítmica--big-o--análisis-asintótico)
+  - [Estructuras de datos](#estructuras-de-datos)
+  - [Más Conocimientos](#más-conocimientos)
+  - [Árboles](#árboles)
+  - [Ordenamiento](#ordenamiento)
+  - [Grafos](#grafos)
+  - [Aún Más Conocimientos](#aún-más-conocimientos)
+  - [Revisión Final](#revisión-final)
+  - [Actualiza tu Currículum](#actualiza-tu-currículum)
+  - [Encuentra un Trabajo](#encuentra-un-trabajo)
+  - [Proceso de Entrevista y Preparación General para Entrevistas](#proceso-de-entrevista-y-preparación-general-para-entrevistas)
+  - [Piensa en esto cuando llegue la entrevista](#piensa-en-esto-cuando-llegue-la-entrevista)
+  - [Ten preguntas para el entrevistador](#ten-preguntas-para-el-entrevistador)
+  - [Una vez que hayas conseguido el trabajo](#una-vez-que-hayas-conseguido-el-trabajo)
+  - [Libros adicionales](#libros-adicionales)
+  - [Diseño del Sistema, Escalabilidad, Manejo de Datos](#diseño-del-sistema-escalabilidad-manejo-de-datos)
+  - [Aprendizaje adicional](#aprendizaje-adicional)
+  - [Detalles adicionales de ciertos temas](#detalles-adicionales-de-ciertos-temas)
+  - [Series de videos](#series-de-videos)
+  - [Cursos de Informática](#cursos-de-informática)
+  - [Implementación de algoritmos](#implementación-de-algoritmos)
+  - [Papers](#papers)
+  - [LICENCIA](#licencia)
+
+---
     - [El Plan de Estudios](#el-plan-de-estudios)
     - [Temas de Estudio](#temas-de-estudio)
     - [Conseguir el Trabajo](#conseguir-el-trabajo)
     - [Temas y Recursos Opcionales Adicionales](#temas-y-recursos-opcionales-adicionales)
+
+- [Universidad de Entrevistas de Programación](#universidad-de-entrevistas-de-programación)
+  - [¿Qué es esto?](#qué-es-esto)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [El Plan de Estudio](#el-plan-de-estudio)
+    - [Temas de Estudio](#temas-de-estudio)
+    - [Conseguir el Trabajo](#conseguir-el-trabajo)
+    - [Temas y Recursos Adicionales Opcionales](#temas-y-recursos-adicionales-opcionales)
   - [¿Por qué usarlo?](#por-qué-usarlo)
   - [Cómo usarlo](#cómo-usarlo)
   - [No sientas que no eres lo suficientemente inteligente](#no-sientas-que-no-eres-lo-suficientemente-inteligente)
@@ -181,13 +278,13 @@ Para un programa completo de CS autodidacta, los recursos de mi plan de estudios
 
 ---------------- Todo debajo de esta marca es opcional ----------------
 
-- [Coding Interview University](#coding-interview-university)
+- [Universidad de Entrevistas de Programación](#universidad-de-entrevistas-de-programación)
   - [¿Qué es esto?](#qué-es-esto)
-  - [Tabla de contenido](#tabla-de-contenido)
-    - [El Plan de Estudios](#el-plan-de-estudios)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [El Plan de Estudio](#el-plan-de-estudio)
     - [Temas de Estudio](#temas-de-estudio)
     - [Conseguir el Trabajo](#conseguir-el-trabajo)
-    - [Temas y Recursos Opcionales Adicionales](#temas-y-recursos-opcionales-adicionales)
+    - [Temas y Recursos Adicionales Opcionales](#temas-y-recursos-adicionales-opcionales)
   - [¿Por qué usarlo?](#por-qué-usarlo)
   - [Cómo usarlo](#cómo-usarlo)
   - [No sientas que no eres lo suficientemente inteligente](#no-sientas-que-no-eres-lo-suficientemente-inteligente)
@@ -1287,8 +1384,8 @@ tecnologías y algoritmos, para que tengas una caja de herramientas más grande.
       - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc)
     - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
     - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-  		- [The Absolute Beginner's Guide to Emacs (video by David Wilson)](https://www.youtube.com/watch?v=48JlgiBpw_I&t=0s)
-  		- [The Absolute Beginner's Guide to Emacs (notes by David Wilson)](https://systemcrafters.net/emacs-essentials/absolute-beginner-guide-to-emacs/)
+      - [The Absolute Beginner's Guide to Emacs (video by David Wilson)](https://www.youtube.com/watch?v=48JlgiBpw_I&t=0s)
+      - [The Absolute Beginner's Guide to Emacs (notes by David Wilson)](https://systemcrafters.net/emacs-essentials/absolute-beginner-guide-to-emacs/)
 
 - ### Herramientas de línea de comandos Unix
 
@@ -1585,6 +1682,7 @@ tecnologías y algoritmos, para que tengas una caja de herramientas más grande.
   - [Divide & Conquer: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
 - ### Matemáticas discretas
+
   - [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
   - [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
   - [Discrete Mathematics By IIT Ropar NPTEL](https://nptel.ac.in/courses/106/106/106106183/)
